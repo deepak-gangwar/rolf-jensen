@@ -1,0 +1,79 @@
+@font-face {
+    src: url('fonts/RoslindaleVariableDisplay-VF.eot'); /* IE < 9 */
+    src: url('fonts/RoslindaleVariableDisplay-VF.eot?#') format("embedded-opentype"), /* IE 9 */
+         url('fonts/RoslindaleVariableDisplay-VF.woff2') format("woff2"),
+         url('fonts/RoslindaleVariableDisplay-VF.woff') format("woff");
+    font-family: 'RoslindaleVariableDisplay';
+    font-style: normal;
+    font-weight: normal;
+    }
+
+@font-face {
+    src: url('fonts/RoslindaleDisplayCondensed-Light.eot'); /* IE < 9 */
+    src: url('fonts/RoslindaleDisplayCondensed-Light.eot?#') format("embedded-opentype"), /* IE 9 */
+         url('fonts/RoslindaleDisplayCondensed-Light.woff2') format("woff2"),
+         url('fonts/RoslindaleDisplayCondensed-Light.woff') format("woff");
+    font-family: 'RoslindaleDisplayCondensed';
+    font-style: normal;
+    font-weight: 300;
+    }
+
+@font-face {
+    src: url('fonts/RoslindaleDisplayCondensed-Regular.eot'); /* IE < 9 */
+    src: url('fonts/RoslindaleDisplayCondensed-Regular.eot?#') format("embedded-opentype"), /* IE 9 */
+         url('fonts/RoslindaleDisplayCondensed-Regular.woff2') format("woff2"),
+         url('fonts/RoslindaleDisplayCondensed-Regular.woff') format("woff");
+    font-family: 'RoslindaleDisplayCondensed';
+    font-style: normal;
+    font-weight: normal;
+    }
+
+@font-face {
+    src: url('fonts/RoslindaleDisplayCondensed-Medium.eot'); /* IE < 9 */
+    src: url('fonts/RoslindaleDisplayCondensed-Medium.eot?#') format("embedded-opentype"), /* IE 9 */
+         url('fonts/RoslindaleDisplayCondensed-Medium.woff2') format("woff2"),
+         url('fonts/RoslindaleDisplayCondensed-Medium.woff') format("woff");
+    font-family: 'RoslindaleDisplayCondensed';
+    font-style: normal;
+    font-weight: 500;
+    }
+
+@font-face {
+    src: url('fonts/RoslindaleDisplayCondensed-Bold.eot'); /* IE < 9 */
+    src: url('fonts/RoslindaleDisplayCondensed-Bold.eot?#') format("embedded-opentype"), /* IE 9 */
+         url('fonts/RoslindaleDisplayCondensed-Bold.woff2') format("woff2"),
+         url('fonts/RoslindaleDisplayCondensed-Bold.woff') format("woff");
+    font-family: 'RoslindaleDisplayCondensed';
+    font-style: normal;
+    font-weight: bold;
+    }
+
+@font-face {
+    src: url('fonts/RoslindaleText-Regular.eot'); /* IE < 9 */
+    src: url('fonts/RoslindaleText-Regular.eot?#') format("embedded-opentype"), /* IE 9 */
+         url('fonts/RoslindaleText-Regular.woff2') format("woff2"),
+         url('fonts/RoslindaleText-Regular.woff') format("woff");
+    font-family: 'RoslindaleText';
+    font-style: normal;
+    font-weight: normal;
+    }
+
+@font-face {
+    src: url('fonts/RoslindaleText-Italic.eot'); /* IE < 9 */
+    src: url('fonts/RoslindaleText-Italic.eot?#') format("embedded-opentype"), /* IE 9 */
+         url('fonts/RoslindaleText-Italic.woff2') format("woff2"),
+         url('fonts/RoslindaleText-Italic.woff') format("woff");
+    font-family: 'RoslindaleText';
+    font-style: italic;
+    font-weight: normal;
+    }
+
+@font-face {
+    src: url('fonts/RoslindaleText-Bold.eot'); /* IE < 9 */
+    src: url('fonts/RoslindaleText-Bold.eot?#') format("embedded-opentype"), /* IE 9 */
+         url('fonts/RoslindaleText-Bold.woff2') format("woff2"),
+         url('fonts/RoslindaleText-Bold.woff') format("woff");
+    font-family: 'RoslindaleText';
+    font-style: normal;
+    font-weight: bold;
+    }
