@@ -153,7 +153,7 @@ body {
 }
 
 .content-left {
-  width: 33vw;
+  width: 38vw;
   position: relative;
 }
 
@@ -180,7 +180,8 @@ body {
   font-family: 'Roslindale', sans-serif;
   font-size: var(--text-lg);
   line-height: 120%;
-  max-width: 33ch;
+  width: 36vw;
+  /* max-width: 33ch; */
 }
 
 .work-wrapper {
@@ -302,4 +303,11 @@ svg.contact-arrow {
 
 .tape-item {
   padding-right: 6px;
+}
+
+
+/* Styles for anim */
+
+.line {
+  overflow: hidden;
 }
